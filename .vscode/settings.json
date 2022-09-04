@@ -1,9 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "xaver.clang-format",
-  "C_Cpp.default.cppStandard": "c++23",
-  "C_Cpp.default.cStandard": "c17",
-  "files.associations": {
-    "variant": "cpp"
-  }
-}
